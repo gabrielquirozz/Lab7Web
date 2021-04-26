@@ -10,4 +10,4 @@ Créditos : Gabriel Quiroz
 
 Link de la pagina: http://ubeje.xyz/19255/Proyecto/index.html
 
-Licencia : GTU
+Licencia : GPL-3.0 License
