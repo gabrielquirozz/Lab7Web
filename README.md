@@ -8,6 +8,6 @@ Uso : Ejecute el comando "npm run serve" para ejecutar la pagina en un servidor 
 
 Créditos : Gabriel Quiroz
 
-Link de la pagina: http://ubeje.xyz/19255/Proyecto/index.html
+Link de la pagina: http://ubeje.xyz/19255/Lab7/index.html
 
 Licencia : GPL-3.0 License
